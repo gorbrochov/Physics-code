@@ -38,6 +38,6 @@ The program then outputs the projectile's position, velocity, range, and flight 
 - Gravity is set to `9.81 m/s^2`.
 - The simulation updates position and velocity using a simple fixed time step.
 
-## Author
+## Developer and Tester
 
 Written and developed by Gorb/Gorlubian.
